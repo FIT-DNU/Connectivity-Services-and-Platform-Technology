@@ -63,11 +63,36 @@ https://github.com/thanhtung1000/APIPython_web.git
 <br>
 https://github.com/hgewew/bai2.git
 <br>
+https://github.com/3-mi-3/ThoiTietCloud
+<br>
+https://github.com/BinhNeymar2004/Weather-Forcast.git
+<br>
+https://github.com/aduangseng/BaiTH2
+<br>
+https://github.com/manhduy12/thoitiet
+<br>
+https://github.com/nguyenmanhdong/Bai2_DichVuKetNoi
+<br>
 https://github.com/trggiang0704/ThucHanh2.git
 <br>
-https://github.com/Huy0711/Bai2-DichVuKetNoi
+https://github.com/Pangorin/iot-cloud-services
+<br>
+https://github.com/VietHung04/baitap2.git
 <br>
 https://github.com/Huy0711/Bai2-DichVuKetNoi
+<br>
+https://github.com/Macchiato285/iot
+<br>
+https://github.com/DinhTanPhat99/Bai3-DichVuKetNoi/tree/main
+<br>
+https://github.com/okoyesir/Bai2-APIpythonApp
+<br>
+https://github.com/thanh11223/Webbai2/tree/main
+<br>
+https://github.com/Blackbin03/iot/tree/main
+<br>
+https://github.com/thanhtung1000/ThongTinMoiTruong.git
+<br>
 
 <hr>
 <b>Bài tập 3: Viết ứng dụng gọi kết nối API chatbot AI</b>
